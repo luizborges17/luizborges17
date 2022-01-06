@@ -3,7 +3,7 @@
 - 🎓 Cursando Banco de Dados 2/6
 - 📚 Estudando Java
 - 💻 Aberto a propostas de trabalho
-- ⚙️ Participei do projeto "SPanel"
+- ⚙️ Participei do projeto SPanel
 - 🥇 Conquistei medalha de ouro na Olimpiada Internacional de Física
 - 🥈 Conquistei medalha de prata na Olimpiada Internacional de Ciências
 <div>
