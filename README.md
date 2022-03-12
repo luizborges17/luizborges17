@@ -3,12 +3,12 @@
 - 🎓 Cursando Banco de Dados 2/6
 - 📚 Estudando Java
 - 💻 Aberto a propostas de trabalho
-- ⚙️ Participei do projeto SPanel
 - 🥇 Conquistei medalha de ouro na Olimpiada Internacional de Física
 - 🥈 Conquistei medalha de prata na Olimpiada Internacional de Ciências
 <div>
   <a href="https://github.com/luizborges17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizborges17&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizborges17&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ## Linguagens que ja trabalhei
