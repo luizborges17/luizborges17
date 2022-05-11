@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Banco de Dados 2/6
 - 📚 Estudando Java e Python
-- 💻 Aberto a propostas de trabalho
+- 💻 Working in Self Solution
 - 🥇 Conquistei medalha de ouro na Olimpiada Internacional de Física
 - 🥈 Conquistei medalha de prata na Olimpiada Internacional de Ciências
 <div>
