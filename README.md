@@ -1,6 +1,6 @@
 # Olá, sou o Luiz Felipe Borges!
 
-- 🎓 Cursando Banco de Dados 2/6
+- 🎓 Cursando Banco de Dados 3/6
 - 📚 Estudando Java e Python
 - 💻 Working in Self Solution
 - 🥇 Conquistei medalha de ouro na Olimpiada Internacional de Física
