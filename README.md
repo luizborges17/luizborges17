@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Banco de Dados 3/6
 - 📚 Estudando Java e React
-- 💻 Working in Qu
+- 💻 Working in Quantus
 - 🥇 Conquistei medalha de ouro na Olimpiada Internacional de Física
 - 🥈 Conquistei medalha de prata na Olimpiada Internacional de Ciências
 <div>
